@@ -1,5 +1,7 @@
 # awesome-algorithmic-game-theory
 
+An Awesome list for resources on algorithmic game theory
+
 ## Books
 - [Algorithmic Game Theory by Noam Nisan, Tim Roughgarden, Eva Tardos, Vijay V. Vazirani](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
 
