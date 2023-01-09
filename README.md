@@ -4,6 +4,7 @@ An Awesome list for resources on algorithmic game theory
 
 ## Books
 - [Algorithmic Game Theory by Noam Nisan, Tim Roughgarden, Eva Tardos, Vijay V. Vazirani](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
+- [Combinatorial Auctions by Peter Cramton, Yoav Shoham, Richard Steinberg](http://cramton.umd.edu/ca-book/cramton-shoham-steinberg-combinatorial-auctions.pdf#page=421)
 
 ## Courses
 - [601.436/636 Algorithmic Game Theory](https://www.cs.jhu.edu/~mdinitz/classes/AGT/Spring2020/)
